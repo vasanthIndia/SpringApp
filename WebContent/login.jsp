@@ -2,6 +2,7 @@
 <%@ taglib uri="http://struts.apache.org/tags-html" prefix="html" %>
 
 <html>
+<title>Loing</title>
 	<body>
 
 		<h1> Welcome to Spring integration with struts demo</h1>
